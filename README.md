@@ -16,7 +16,7 @@
 ## 🛠️ Habilidades
 
 ### 🖥️ Frontend
-HTML • CSS • JavaScript • Next.js • Tailwind CSS • Material UI • Styled Components
+HTML • CSS • JavaScript • Next.js • BootStrap 
 
 ### ⚙️ Backend
 Node.js • Express • Python • Delphi • REST APIs • Autenticação JWT/OAuth2
