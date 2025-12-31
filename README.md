@@ -6,10 +6,10 @@
 
 ## Destaques
 
--  **Desenvolvedor Fullstack:** Experiência sólida em **Node.js, Python, Next.js**.  
+-  **Desenvolvedor Fullstack:** Experiência sólida em **Node.js, Python, Delphi, JavaScript, HTML, SQL Server**.  
 -  **Projetos Reais:** Criação de sistemas internos, automações e plataformas personalizadas.  
--  **Foco em Performance:** Otimização de código, acessibilidade, responsividade e UX refinado.  
--  **Cultura Dev:** Acredito em código limpo, documentação clara e aprendizado contínuo.
+-  **Foco em Performance:** Otimização de código, acessibilidade e responsividade.  
+-  **Cultura Dev:** Código limpo, documentação clara e aprendizado contínuo.
 
 ---
 
