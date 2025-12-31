@@ -42,7 +42,6 @@ Git • GitHub • Docker • Postman
 
 ## Conecte-se Comigo
 
- [Instagram](https://www.instagram.com/guiborgesz)  
  [LinkedIn](https://www.linkedin.com/in/guilherme-borges-6a2b4838a)  
  [E-mail](mailto:guilhermeborges.developer@gmail.com)
 
