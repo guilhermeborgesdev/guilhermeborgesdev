@@ -6,7 +6,7 @@
 
 ## Destaques
 
--  **Desenvolvedor Fullstack:** Experiência sólida em **Node.js, Python, Delphi, JavaScript, HTML, SQL Server**.  
+-  **Desenvolvedor Fullstack:** Experiência em **HTML, CSS, Node.js, Python, Delphi, JavaScript, SQL Server**.  
 -  **Projetos Reais:** Criação de sistemas internos, automações e plataformas personalizadas.  
 -  **Foco em Performance:** Otimização de código, acessibilidade e responsividade.  
 -  **Cultura Dev:** Código limpo, documentação clara e aprendizado contínuo.
@@ -16,7 +16,7 @@
 ## Habilidades
 
 ### Frontend
-HTML • CSS • JavaScript • Next.js • BootStrap 
+HTML • CSS • JavaScript • Tailwand 
 
 ### Backend
 Node.js • Express • Python • Delphi • REST APIs
