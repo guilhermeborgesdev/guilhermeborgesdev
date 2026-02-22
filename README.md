@@ -2,7 +2,7 @@
   
   ### 👋 Olá! Eu sou Guilherme Borges
   
-  **Desenvolvedor Fullstack** criaando soluções eficientes e elegantes
+  **Desenvolvedor Fullstack** criando soluções eficientes e elegantes
   
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-borges-6a2b4838a)
