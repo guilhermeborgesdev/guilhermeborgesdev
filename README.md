@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Fullstack com experiência em desenvolvimento de sistemas corporativos, automações e plataformas personalizadas. Atualmente trabalhando com tecnologias modernas para criar soluções que fazem a diferença no dia a dia das empresas.
+Desenvolvedor Fullstack com experiência em desenvolvimento de sistemas web, automações e plataformas personalizadas. Atualmente trabalhando com tecnologias para criar soluções que fazem a diferença no dia a dia das empresas.
 
 ```javascript
 const guilherme = {
@@ -27,7 +27,7 @@ const guilherme = {
 
 ### 💼 O Que Eu Faço
 
-- ✨ Desenvolvimento de sistemas internos corporativos
+- ✨ Desenvolvimento de sistemas web
 - 🤖 Automações e integrações de processos
 - 🎨 Criação de interfaces responsivas e acessíveis
 - ⚡ Otimização de performance e código
