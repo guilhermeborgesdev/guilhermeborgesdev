@@ -1,8 +1,8 @@
 <div align="center">
   
-  ### 👋 Olá! Eu sou Guilherme Borges
+  ###  Olá! Eu sou Guilherme Borges
   
-  **Desenvolvedor Fullstack** criando soluções eficientes e elegantes
+  **Desenvolvedor Fullstack** c
   
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-borges-6a2b4838a)
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Desenvolvedor Fullstack com experiência em desenvolvimento de sistemas web, automações e plataformas personalizadas. Atualmente trabalhando com tecnologias para criar soluções que fazem a diferença no dia a dia das empresas.
 
@@ -25,17 +25,17 @@ const guilherme = {
 };
 ```
 
-### 💼 O Que Eu Faço
+### O Que Eu Faço
 
-- ✨ Desenvolvimento de sistemas web
-- 🤖 Automações e integrações de processos
-- 🎨 Criação de interfaces responsivas e acessíveis
-- ⚡ Otimização de performance e código
-- 📚 Documentação técnica clara e eficiente
+-  Desenvolvimento de sistemas web
+-  Automações e integrações de processos
+-  Criação de interfaces responsivas e acessíveis
+-  Otimização de performance e código
+-  Documentação técnica clara e eficiente
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -60,7 +60,7 @@ const guilherme = {
 ---
 
 
-## 🤝 Vamos Conversar?
+## Vamos Conversar?
 
 Estou sempre aberto para discutir novos projetos, ideias criativas ou oportunidades de colaboração!
 
